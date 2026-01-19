@@ -85,16 +85,16 @@ Plus there are many  resources (and ready code) available for EO applications. C
 
 |Date                       | Lecture                             |Instructor  |Moderator   |
 |---------------------------|-------------------------------------|------------|------------|
-|2025-01-06 9:00-12:00 Mon  | Intro to remote sensing I          | Y Plancherel        | GTA         |
-|2025-01-06 14:00-17:00 Mon | Intro to remote sensing II; GEE practical   | Y Plancherel; M Prasow-Emond       | GTA         |
-|2025-01-07 9:00-12:00 Tue  | Spatial data; geostatistics         | Y Plancherel        | GTA         |
-|2025-01-07 14:00-17:00 Tue | Open-Geo-Tutorial        | Y Plancherel; M Prasow-Emond      | GTA         |
-|2025-01-08 9:00-12:00 Wed  | Research talks; Open-Geo-Tutorial | M Prasow-Emond; R Adriaensen     | GTA         |
-|2025-01-08 14:00-17:00 Wed | Free                                | Y Plancherel        | GTA         |
-|2025-01-09 9:00-12:00 Thu  | Mini-project: Nagazaki        | Y Plancherel        | GTA         |
-|2025-01-09 14:00-17:00 Thu | Mini-project: Nagazaki          | Y Plancherel        | GTA         |
-|2025-01-10 9:00-12:00 Fri  | self-study        |         |             |
-|2025-01-10 14:00-16:00 Fri  | Quiz        |         |             |
+|2026-01-19 9:00-12:00 Mon  | Intro to remote sensing I          | Y Plancherel        | GTA         |
+|2026-01-19 14:00-17:00 Mon | Intro to remote sensing II; GEE practical   | Y Plancherel       | GTA         |
+|2026-01-20 9:00-12:00 Tue  | Spatial data; geostatistics         | Y Plancherel        | GTA         |
+|2026-01-20 14:00-17:00 Tue | Open-Geo-Tutorial        | Y Plancherel      | GTA         |
+|2026-01-21 9:00-12:00 Wed  | Open-Geo-Tutorial      | GTA         |
+|2026-01-21 14:00-17:00 Wed | Free                                | Y Plancherel        | GTA         |
+|2026-01-22 9:00-12:00 Thu  | Mini-project: Nagazaki        | Y Plancherel        | GTA         |
+|2026-01-22 14:00-17:00 Thu | Mini-project: Nagazaki          | Y Plancherel        | GTA         |
+|2026-01-23 9:00-12:00 Fri  | self-study        |         |             |
+|2026-01-23 14:00-16:00 Fri  | Quiz        |         |             |
 
 ## Assessment exercises
 Assessment will be 100% by coursework/quiz. It is open book but absoluetly forbids use of any AI tools or internet resources, including translation softwares other than plain dictionaries. 
@@ -103,4 +103,4 @@ Questions will be distributed and submitted via GitHub Classroom on Friday.
 
 |Release Date         | Due Date            | Topic                             |
 |---------------------|---------------------|-----------------------------------|
-|2025-01-24 Fri 14:00 | 2025-01-24 16:00 Fri| Assessment, Environmental data weeks 1,2,3         |
+|2026-01-23 Fri 14:00 | 2026-01-23 TBA Fri| Assessment, Environmental data weeks 1,2,3         |
