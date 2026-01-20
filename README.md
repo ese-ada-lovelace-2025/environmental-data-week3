@@ -88,7 +88,7 @@ Plus there are many  resources (and ready code) available for EO applications. C
 |2026-01-19 9:00-12:00 Mon  | Intro to remote sensing I          | Y Plancherel        | GTA         |
 |2026-01-19 14:00-17:00 Mon | Intro to remote sensing II; GEE practical   | Y Plancherel       | GTA         |
 |2026-01-20 9:00-12:00 Tue  | Spatial data; geostatistics         | Y Plancherel        | GTA         |
-|2026-01-20 14:00-17:00 Tue | Open-Geo-Tutorial        | Y Plancherel      | GTA         |
+|2026-01-20 14:00-17:00 Tue | Gerard Research Talk + Open-Geo-Tutorial        | Y Plancherel      | GTA         |
 |2026-01-21 9:00-12:00 Wed  | Quiz-test + lecture + Open-Geo-Tutorial      | Y Plancherel         | GTA
 |2026-01-21 14:00-17:00 Wed | Free                                | Y Plancherel        | GTA         |
 |2026-01-22 9:00-12:00 Thu  | Drone surveys + Mini-project: Nagazaki        | Y Plancherel        | GTA         |
