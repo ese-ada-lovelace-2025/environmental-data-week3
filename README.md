@@ -97,7 +97,7 @@ Plus there are many  resources (and ready code) available for EO applications. C
 |2026-01-23 14:00-16:00 Fri  | Quiz        |         |             |
 
 ## Assessment exercises
-Assessment will be 100% by coursework/quiz. It is open book but absoluetly forbids use of any AI tools or internet resources, including translation softwares other than plain dictionaries. 
+Assessment will be 100% by coursework/quiz. It is open book but absoluetly forbids use of any AI tools or internet resources, aside from the links provided in the notes, including translation softwares other than plain dictionaries and Google translate (Text only) accessed via https://translate.google.com/. 
 
 Questions will be distributed and submitted via GitHub Classroom on Friday. 
 
